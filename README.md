@@ -1,4 +1,4 @@
-# desAppWeb25
+# Desarrollo de Aplicaciones Web - 2025-26
 Curso Desarrollo de Aplicaciones con Tecnologia Web IFCD0210
 
 
