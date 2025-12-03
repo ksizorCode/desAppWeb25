@@ -1,6 +1,10 @@
 # Desarrollo de Aplicaciones Web - 2025-26
 Curso Desarrollo de Aplicaciones con Tecnologia Web IFCD0210
 
+## Enlaces de Interés:
+- Codepen: https://codepen.io/ksizorCode
+- Pizarra Figma: https://www.figma.com/board/nr1Z0kKQxKufS44vXlrazr/DesAppWeb2026?node-id=0-1&t=ckGegi9hWYwcSqfF-1
+
 
 
 
