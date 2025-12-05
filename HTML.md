@@ -16,11 +16,11 @@ h1{color:red}
 ````
 
 ### Selectores Principales
-|nombre    |en HTML               | en CSS                   |
-|----------|----------------------|--------------------------|
-| etiqueta |<h1>                  | h1{ color:red;}          |
-| ID       |<h1 id="titulo">      | #titulo{ color:red;}     |
-| class    |<h1 class="destacado">| .destacado{ color:red;}  |
+|nombre    |en HTML                     | en CSS                   |
+|----------|----------------------------|--------------------------|
+| etiqueta |```<h1>   ```               | h1{ color:red;}          |
+| ID       |```<h1 id="titulo"> ```     | #titulo{ color:red;}     |
+| class    |```<h1 class="destacado">```| .destacado{ color:red;}  |
 
 
 miguelestebn@gmail.com
