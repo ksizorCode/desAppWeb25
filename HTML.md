@@ -23,6 +23,4 @@ h1{color:red}
 | class    |```<h1 class="destacado">```| .destacado{ color:red;}  |
 
 
-miguelestebn@gmail.com
-
 
