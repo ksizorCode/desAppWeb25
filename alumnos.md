@@ -26,16 +26,16 @@ Daniel C.
 Jorge
 - https://codepen.io/XurxoXurde
 - https://github.com/JV4793
+
 Sergio
 -   https://codepen.io/smdt
-- 
+ 
 Roman
 - https://codepen.io/Roman-Romero
 - https://github.com/romaneitor2003
 
 David F
 - https://codepen.io/DavidFC
-- 
 
 Nadine
 - https://codepen.io/Nadine-Teeki-Smikiss
@@ -48,6 +48,7 @@ Jose Manuel
 David G
 - https://codepen.io/DeividG
 - https://
+
 Ricardo
 - https://codepen.io/ricocatford
 - https://github.com/ricocatford
@@ -59,5 +60,3 @@ Adalid
 Oscar
 - https://codepen.io/Oscar-Sordo
 - https://github.com/OscarSS1591
-
-	</main>	
