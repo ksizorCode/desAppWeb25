@@ -30,6 +30,7 @@ Jorge
 
 Sergio
 -   https://codepen.io/smdt
+-   https://github.com/semoratamv-dev
  
 Roman
 - https://codepen.io/Roman-Romero
@@ -37,7 +38,7 @@ Roman
 
 David F
 - https://codepen.io/DavidFC
-- -https://github.com/David-IFC
+- https://github.com/David-IFC
 
 Nadine
 - https://codepen.io/Nadine-Teeki-Smikiss
