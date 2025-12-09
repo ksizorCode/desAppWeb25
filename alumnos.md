@@ -15,6 +15,7 @@ Luis
 
 Cesar
 - https://codepen.io/dujub
+- https://github.com/dujubdev
 
 Sergio C.
 - https://codepen.io/Sergio-Carballo
