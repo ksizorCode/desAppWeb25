@@ -2,6 +2,17 @@
 - Codepen:  https://codepen.io/ksizorCode
 - Prototipado Figma: https://www.figma.com/design/c00H8PjYO2j7oiEtWMD8SZ/Disneyland?node-id=0-1&t=flmBSvLnkGt5vpyD-1
 
+
+## Asignación de ejercicios
+
+Diseño -> programación
+HIMI -> Sergio
+David->Himi
+Sergio->Luis
+Nadine->David
+Luis->Nadine
+
+
 ---
 
 # Desarrollo de Aplicaciones Web - 2025-26
