@@ -1,0 +1,46 @@
+
+body{
+    font-family:sans-serif;
+
+    max-width: 550px;
+    margin: 0 auto;
+
+    background-color:#5BA2FF;
+}
+
+h1{
+    text-align: center;
+}
+
+
+img{
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+
+div{
+    background-color: #FFF;
+    border-radius: 26px;
+    padding: 20px;
+    margin:20px;
+
+    max-width:300px;
+}
+
+a{
+    text-decoration: none;
+    background: #5BA2FF;
+    color:white;
+    text-align: center;
+
+    display: block;
+    border-radius: 20px;
+    padding: 8px 20px;
+
+    font-weight: bold;
+    letter-spacing: 2px;;
+
+}
+
+*{ outline: 1px solid red;}

@@ -1,0 +1,88 @@
+body {
+    max-width: 960px;
+    margin: 20px auto;
+    font-family: sans-serif;
+    background-color: rgb(156, 153, 153);
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.fichas {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 10px;
+}
+
+.fichas li {
+
+    border: blue solid;
+    padding: 20px;
+    border-radius: 10px;
+    flex: 1 1 0;
+    min-width: 200px;
+    background-color: rgb(51, 102, 85);
+    /* 
+    Si un elemento dentro de li se fuese 
+    a salir de los limites se oculta */
+    overflow: hidden;
+
+
+
+}
+
+.fichas :hover {
+    background-color: antiquewhite;
+
+}
+
+.fichas :hover p {
+    font-size: 22px;
+}
+
+.fichas :hover img {
+    /* Aumenta la escala de la imagen llegando
+    llegando a sobrebasar el propio li */
+    transform: scale(1.2);
+}
+
+.fichas :hover h2 {
+    color: rgb(99, 13, 66);
+    text-decoration: underline;
+    
+}
+
+.fichas li h2 {
+
+    color: rgb(178, 110, 32);
+}
+
+.fichas li img {
+
+    max-width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    transition: 0.5s;
+    
+
+
+
+
+
+}
+
+.fichas li div {
+    display: flex;
+
+    justify-content: space-between;
+
+
+}
+
+/* *************************************************** */

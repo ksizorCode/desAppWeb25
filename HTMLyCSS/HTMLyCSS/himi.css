@@ -1,0 +1,76 @@
+body{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin: 0 auto;
+  background-color: #72150E;
+  color: #04103C;
+}
+
+h1{
+  text-align: center;
+  font-weight: bold;
+  color: #579128;
+}
+
+h2.titulo{
+  font-weight: bold;
+}
+
+.fichas li section{
+  display: flex;
+  justify-content: space-between;
+  color: #223074;
+  font-weight: 600;
+}
+
+.fichas li section p{
+  margin: 0;
+}
+
+footer p.copyright{
+  color: grey;
+}
+
+.fichas li img{
+  height: 400px;
+  max-width: 100%;
+  border-radius: 20px;
+}
+ 
+.fichas li{
+  background-color: #D4D955;
+  border-radius: 26px;
+  padding: 20px;
+  margin: 10px auto;
+  max-width: 300px;
+  box-shadow: 13px 12px 24px 6px #D4D955;
+}
+
+section.conjunto{
+  display: flex;
+  gap: 30px;
+  margin: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.fichas li a{
+  text-decoration: none;
+  background-color: #72150E;
+  color: #D4D955;
+  text-align: center;
+  display: block;
+  border-radius: 20px;
+  padding: 8px 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  transition: 0.3s;
+  border: solid 2px #72150E;
+}
+
+.fichas li a:hover{
+  background: transparent;
+  letter-spacing: 5px;
+  color: #72150E;
+}
+
+/* *{outline: 1px solid red;} */

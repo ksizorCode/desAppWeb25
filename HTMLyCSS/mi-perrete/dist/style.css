@@ -1,0 +1,19 @@
+body {
+  max-width: 560px;
+  margin: 10px auto;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #87cefa;
+}
+
+a {
+  text-decoration: none;
+  color: lightskyblue;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 30px;
+}
