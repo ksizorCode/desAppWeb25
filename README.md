@@ -5,12 +5,13 @@
 
 ## Asignación de ejercicios
 
-Diseño -> programación
-HIMI -> Sergio
-David->Himi
-Sergio->Luis
-Nadine->David
-Luis->Nadine
+|Diseño de figma de:   | Lo programa en HTML y CSS:   |
+|------------|---------------|
+|HIMI        |Sergio         |
+|David       | Himi          |
+|Sergio      |Luis           |
+|Nadine      |David          |
+|Luis        |Nadine         | 
 
 
 ---
