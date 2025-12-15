@@ -10,7 +10,7 @@ Curso Desarrollo de Aplicaciones con Tecnologia Web IFCD0210
 
 
 
-# 🕸️ Glosario de Terminología Web
+# 🕸️ Glosario de Terminología Web -
 
 ## Estructura y diseño
 
