@@ -13,7 +13,18 @@
 |Nadine      |David          |
 |Luis        |Nadine         | 
 
-
+## Pendientes:
+|Diseño de figma de:   | Lo programa en HTML y CSS:   |
+|------------|----------|
+|Cesar       |          |
+|Jorge       |          |
+|SergioM     |          |
+|Roman       |          |
+|Jose Manuel |          |
+|Ricardo     |          |
+|Daniel C    |          |
+|Oscar       |          |
+|Adalid      |          |
 ---
 
 # Desarrollo de Aplicaciones Web - 2025-26
