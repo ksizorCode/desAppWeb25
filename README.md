@@ -11,24 +11,21 @@ https://www.figma.com/design/2OMhucfCrhLtQ0DQSFaAia/DATW---Prototipado?node-id=0
 
 |Diseño de figma de:   | Lo programa en HTML y CSS:   |
 |------------|---------------|
-|HIMI        |Sergio         |
-|David       | Himi          |
-|Sergio      |Luis           |
-|Nadine      |David          |
-|Luis        |Nadine         | 
-
-## Pendientes:
-|Diseño de figma de:   | Lo programa en HTML y CSS:   |
-|------------|----------|
-|Cesar       |          |
-|Jorge       |          |
-|SergioM     |          |
-|Roman       |          |
-|Jose Manuel |          |
-|Ricardo     |          |
-|Daniel C    |          |
-|Oscar       |          |
-|Adalid      |          |
+|Himi        |Sergio C    |
+|David F     |Himi        |
+|Sergio C    |Luis        |
+|Nadine      |David       |
+|Luis        |Nadine      | 
+|Cesar       |Jose Manuel |
+|Jorge       |Roman       |
+|SergioM     |Cesar       |
+|Roman       |Jorge       |
+|Jose Manuel |Sergio M    |
+|Ricardo     |Ricardo     |
+|Daniel C    |Daniel C    |
+|Oscar       |Adalid      |
+|Adalid      |Oscar       |
+|David G     |David G     |
 ---
 
 # Desarrollo de Aplicaciones Web - 2025-26
