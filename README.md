@@ -1,19 +1,31 @@
-# Hola soy Miguel
-- Codepen:  https://codepen.io/ksizorCode
-- Prototipado Figma: https://www.figma.com/design/c00H8PjYO2j7oiEtWMD8SZ/Disneyland?node-id=0-1&t=flmBSvLnkGt5vpyD-1
+# 📆 HOY
+https://www.figma.com/design/2OMhucfCrhLtQ0DQSFaAia/DATW---Prototipado?node-id=0-1&t=xEdGie1QWiqUsXvA-1
+
+# 📂 Hola soy Miguel
+-  ✏️ Codepen:  https://codepen.io/ksizorCode
+- 🚙 Prototipado Figma: https://www.figma.com/design/c00H8PjYO2j7oiEtWMD8SZ/Disneyland?node-id=0-1&t=flmBSvLnkGt5vpyD-1
+- 💾 Drive: https://drive.google.com/drive/folders/1Z70QhW2qRLhuO7lacn93x8fftRxdo1oX?usp=sharing
 
 
 ## Asignación de ejercicios
 
 |Diseño de figma de:   | Lo programa en HTML y CSS:   |
 |------------|---------------|
-|HIMI        |Sergio         |
-|David       | Himi          |
-|Sergio      |Luis           |
-|Nadine      |David          |
-|Luis        |Nadine         | 
-
-
+|Himi        |Sergio C    |
+|David F     |Himi        |
+|Sergio C    |Luis        |
+|Nadine      |David       |
+|Luis        |Nadine      | 
+|Cesar       |Jose Manuel |
+|Jorge       |Roman       |
+|SergioM     |Cesar       |
+|Roman       |Jorge       |
+|Jose Manuel |Sergio M    |
+|Ricardo     |Ricardo     |
+|Daniel C    |Daniel C    |
+|Oscar       |Adalid      |
+|Adalid      |Oscar       |
+|David G     |David G     |
 ---
 
 # Desarrollo de Aplicaciones Web - 2025-26
