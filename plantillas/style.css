@@ -59,3 +59,45 @@ button:hover, .btn:hover{
   background:var(--c2);
   color:var(--c1);
 }
+
+
+
+
+/**********/
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+
+html{
+	font-family: sans-serif;
+	max-width:860px;
+	margin: auto;
+}
+#galeria{
+	list-style:none;
+	padding-left: 0;
+	
+	display: flex;
+	flex-wrap:wrap;
+	gap:0;
+}
+
+#galeria img{
+	display:block;
+	max-width:100%;
+	transition:.5s;
+	filter:grayscale(1);
+
+}
+
+#galeria img:hover{
+	scale:1.2;
+	z-index:2;
+	filter:grayscale(0);
+}
+
+
