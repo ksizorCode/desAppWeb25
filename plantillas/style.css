@@ -1,0 +1,47 @@
+/* Plantilla para usar un Style.css genérico*/
+*{
+  margin:0; padding:0;
+  box-sizing:border-box;
+}
+
+
+
+:root{
+  --c1:coral;
+}
+
+html{
+  font-family:sans-serif;
+  max-width:560px;
+  background-color:coral;
+  padding:12px;
+  min-height:96dvh;
+}
+
+body{
+  background-color:var(--c1);
+  padding:20px;
+  border-radius:20px;
+}
+
+h1, h2, h3, h4, h5, h6{
+  color:var(--c1);
+}
+
+nav,ul.lista,ul.galeria,ul.cards.flex{
+  list-style:none;
+  padding-left:0;
+  
+  display:flex;
+  gap:4px;
+  flex-wrap:wrap;
+  justify-content:center;
+  align-items:center;
+
+  li{
+    flex:1 1 0;
+  }
+}
+
+
+}
