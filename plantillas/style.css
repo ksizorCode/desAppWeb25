@@ -54,7 +54,7 @@ nav, ul.lista, ul.galeria, ul.cards, .flex{
 
 /***Grid***/
 .grid{
-	display:grid:
+	display:grid;
 	grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 }
 
